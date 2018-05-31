@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeperApp</string>
+    <string name="team_a">Team A</string>
+    <string name="defaultA">0</string>
+    <string name="seprate">/</string>
+    <string name="singles">Singles</string>
+    <string name="fourRuns">+4 Runs</string>
+    <string name="sixRun">+6 Run</string>
+    <string name="wickets">Wickets</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>
